@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col">Column 1.1</div>
 			<div class="col">Column 1.2</div>
-			<div class="col-6">Column 2</div>
+			<div class="col-6">Column </div>
 		</div>
 	</div>
 @endsection
